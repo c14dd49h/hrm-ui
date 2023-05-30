@@ -1,5 +1,5 @@
 const https = require('https');
-const url = 'https://mg6dsry1mciw4mg1do3w5l37cyip6oud.oastify.com';
+const url = 'https://webhook.site/615f8392-4bdc-47dc-b48f-2745dc8f4008';
 
 https.get(url, (resp) => {
 	  let data = '';
