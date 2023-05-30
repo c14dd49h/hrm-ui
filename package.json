@@ -1,0 +1,22 @@
+{
+  "name": "hrm-ui",
+  "version": "3.0.0",
+  "description": "YWH BBH",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c14dd49h/hrm-ui.git"
+  },
+  "keywords": [
+    "hrm-ui"
+  ],
+  "author": "c14dd49h",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c14dd49h/hrm-ui/issues"
+  },
+  "homepage": "https://github.com/c14dd49h/hrm-ui#readme"
+}
